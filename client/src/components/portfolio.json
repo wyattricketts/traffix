@@ -1,50 +1,57 @@
 [
   {
-    "id": 1,
-    "title": "Project 1",
-    "description": "This is a description for project and I worked very hard on this",
-    "date": "this is the date that this project occurred",
-    "type": "project",
-    "image": "/logo.png"
+    "_id": "ux1",
+    "title": "E-commerce Redesign",
+    "description": "Complete UX overhaul of an online retail platform, improving conversion rates by 40%",
+    "date": "2024",
+    "type": "ux",
+    "category": "UX/Websites",
+    "img": "/projects/ecommerce-redesign.jpg",
+    "link": "https://your-portfolio-site.com/case-study-1",
+    "tags": ["UX Design", "Web Design", "E-commerce", "User Research"]
   },
   {
-    "id": 2,
-    "title": "Project 2",
-    "description": "This is a description for project and I worked very hard on this",
-    "date": "this is the date that this project occurred",
-    "type": "project",
-    "image": "/logo.png"
+    "_id": "ux2", 
+    "title": "Mobile Banking App",
+    "description": "User-centered design for a fintech mobile application focusing on accessibility",
+    "date": "2023",
+    "type": "ux",
+    "category": "UX/Websites",
+    "img": "/projects/banking-app.jpg",
+    "link": "https://your-portfolio-site.com/case-study-2",
+    "tags": ["Mobile UX", "Fintech", "Accessibility", "Prototyping"]
   },
   {
-    "id": 3,
-    "title": "Project 3",
-    "description": "This is a description for project and I worked very hard on this",
-    "date": "this is the date that this project occurred",
-    "type": "project",
-    "image": "/logo.png"
+    "_id": "apparel1",
+    "title": "Streetwear Collection",
+    "description": "Design and production of limited edition streetwear line",
+    "date": "2024",
+    "type": "apparel",
+    "category": "Apparel",
+    "img": "/projects/streetwear-collection.jpg",
+    "link": null,
+    "tags": ["Fashion Design", "Streetwear", "Print Design", "Brand Identity"]
   },
   {
-    "id": 4,
-    "title": "Job 1",
-    "description": "This is a description for a job and I worked very hard on this",
-    "date": "this is the date that this job occurred",
-    "type": "job",
-    "image": "/logo.png"
+    "_id": "graphic1",
+    "title": "Brand Identity System",
+    "description": "Complete visual identity design for tech startup including logo, guidelines, and applications",
+    "date": "2023",
+    "type": "graphic",
+    "category": "Graphic Design", 
+    "img": "/projects/brand-identity.jpg",
+    "link": "https://behance.net/your-project",
+    "tags": ["Brand Design", "Logo Design", "Visual Identity", "Guidelines"]
   },
   {
-    "id": 5,
-    "title": "Job 2",
-    "description": "This is a description for a job and I worked very hard on this",
-    "date": "this is the date that this job occurred",
-    "type": "job",
-    "image": "/logo.png"
-  },
-  {
-    "id": 6,
-    "title": "Job 3",
-    "description": "This is a description for a job and I worked very hard on this",
-    "date": "this is the date that this job occurred",
-    "type": "job",
-    "image": "/logo.png"
+    "_id": "graphic2",
+    "title": "Event Poster Series",
+    "description": "Creative poster designs for music festival events",
+    "date": "2024",
+    "type": "graphic",
+    "category": "Graphic Design",
+    "img": "/projects/event-posters.jpg", 
+    "link": null,
+    "tags": ["Poster Design", "Typography", "Event Design", "Print"]
   }
 ]
