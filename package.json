@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_jsx",
+  "version": "1.0.0",
+  "description": "Open this repository as a Codespace on GitHub (or as a container in VS Code.)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
